@@ -1,0 +1,346 @@
+Starting ChromeDriver 80.0.3987.16 (320f6526c1632ad4f205ebce69b99a062ed78647-refs/branch-heads/3987@{#185}) on port 9755
+Only local connections are allowed.
+Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+[1582862224.647][WARNING]: Timed out connecting to Chrome, retrying...
+Feb 28, 2020 9:27:06 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+[1582862229.315][WARNING]: Timed out connecting to Chrome, retrying...
+[1582862231.828][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582862232.560][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582862232.662][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582862232.764][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582862232.865][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582862232.967][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582862233.069][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582862233.206][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582862233.307][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582862233.409][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582862233.721][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582862234.013][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582862234.115][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582862234.217][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582862234.317][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582862234.420][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582862234.522][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582862234.625][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582862234.727][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582862234.830][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582862234.933][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582862235.035][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582862235.137][SEVERE]: Timed out receiving message from renderer: 0.100
+null
+URL is either not configured for anchor tag or it is empty
+https://support.google.com/websearch/answer/181196?hl=en-IN
+URL belongs to another domain, skipping it.
+null
+URL is either not configured for anchor tag or it is empty
+null
+URL is either not configured for anchor tag or it is empty
+null
+URL is either not configured for anchor tag or it is empty
+https://www.google.co.in/intl/en/about/products?tab=wh
+URL belongs to another domain, skipping it.
+https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/search%3Fsource%3Dhp%26ei%3DvY9YXsqZAc_erQHZs7n4CA%26q%3Dcherry%2Bblossom%26oq%3Dcherry%2Bblossom%26gs_l%3Dpsy-ab.3...372.422..440...0.0..0.0.0.......0....1..gws-wiz.J1HYSegVdw4%26ved%3D0ahUKEwiK7Je6rfPnAhVPbysKHdlZDo8Q4dUDCAY%26uact%3D5
+URL belongs to another domain, skipping it.
+https://www.google.com/webhp?hl=en&ictx=2&sa=X&ved=0ahUKEwiQ_8C6rfPnAhVCSX0KHdTRCJQQPQgH
+URL belongs to another domain, skipping it.
+https://www.google.com/search?source=hp&ei=vY9YXsqZAc_erQHZs7n4CA&q=cherry+blossom&oq=cherry+blossom&gs_l=psy-ab.3...372.422..440...0.0..0.0.0.......0....1..gws-wiz.J1HYSegVdw4&ved=0ahUKEwiK7Je6rfPnAhVPbysKHdlZDo8Q4dUDCAY&uact=5#
+URL belongs to another domain, skipping it.
+https://www.google.com/search?q=cherry+blossom&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiQ_8C6rfPnAhVCSX0KHdTRCJQQ_AUoAXoECBIQAw
+URL belongs to another domain, skipping it.
+https://www.google.com/search?q=cherry+blossom&source=lnms&tbm=nws&sa=X&ved=2ahUKEwiQ_8C6rfPnAhVCSX0KHdTRCJQQ_AUoAnoECBIQBA
+URL belongs to another domain, skipping it.
+https://www.google.com/search?q=cherry+blossom&source=lnms&tbm=shop&sa=X&ved=2ahUKEwiQ_8C6rfPnAhVCSX0KHdTRCJQQ_AUoA3oECBIQBQ
+URL belongs to another domain, skipping it.
+https://maps.google.com/maps?q=cherry+blossom&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwiQ_8C6rfPnAhVCSX0KHdTRCJQQ_AUoBHoECBIQBg
+URL belongs to another domain, skipping it.
+null
+URL is either not configured for anchor tag or it is empty
+https://www.google.com/search?q=cherry+blossom&source=lnms&tbm=vid&sa=X&ved=2ahUKEwiQ_8C6rfPnAhVCSX0KHdTRCJQQ_AUoAHoECBIQCA
+URL belongs to another domain, skipping it.
+https://www.google.com/search?q=cherry+blossom&source=lnms&tbm=bks&sa=X&ved=2ahUKEwiQ_8C6rfPnAhVCSX0KHdTRCJQQ_AUoAXoECBIQCQ
+URL belongs to another domain, skipping it.
+https://www.google.com/flights?q=cherry+blossom&source=lnms&tbm=flm&sa=X&ved=2ahUKEwiQ_8C6rfPnAhVCSX0KHdTRCJQQ_AUoAnoECBIQCg
+URL belongs to another domain, skipping it.
+https://www.google.com/search?q=cherry+blossom&source=lnms&tbm=fin&sa=X&ved=2ahUKEwiQ_8C6rfPnAhVCSX0KHdTRCJQQ_AUoA3oECBIQCw
+URL belongs to another domain, skipping it.
+https://www.google.com/preferences
+URL belongs to another domain, skipping it.
+https://www.google.com/preferences?hl=en&prev=https://www.google.com/search?source%3Dhp%26ei%3DvY9YXsqZAc_erQHZs7n4CA%26q%3Dcherry%2Bblossom%26oq%3Dcherry%2Bblossom%26gs_l%3Dpsy-ab.3...372.422..440...0.0..0.0.0.......0....1..gws-wiz.J1HYSegVdw4%26ved%3D0ahUKEwiK7Je6rfPnAhVPbysKHdlZDo8Q4dUDCAY%26uact%3D5
+URL belongs to another domain, skipping it.
+https://www.google.com/preferences?hl=en&prev=https://www.google.com/search?source%3Dhp%26ei%3DvY9YXsqZAc_erQHZs7n4CA%26q%3Dcherry%2Bblossom%26oq%3Dcherry%2Bblossom%26gs_l%3Dpsy-ab.3...372.422..440...0.0..0.0.0.......0....1..gws-wiz.J1HYSegVdw4%26ved%3D0ahUKEwiK7Je6rfPnAhVPbysKHdlZDo8Q4dUDCAY%26uact%3D5#languages
+URL belongs to another domain, skipping it.
+https://www.google.com/setprefs?safeui=on&sig=0_RRvfVohv7qwx8XUnYNSBxU4onUo%3D&prev=https://www.google.com/search?source%3Dhp%26ei%3DvY9YXsqZAc_erQHZs7n4CA%26q%3Dcherry%2Bblossom%26oq%3Dcherry%2Bblossom%26gs_l%3Dpsy-ab.3...372.422..440...0.0..0.0.0.......0....1..gws-wiz.J1HYSegVdw4%26ved%3D0ahUKEwiK7Je6rfPnAhVPbysKHdlZDo8Q4dUDCAY%26uact%3D5
+URL belongs to another domain, skipping it.
+https://www.google.com/advanced_search?q=cherry+blossom&hl=en
+URL belongs to another domain, skipping it.
+https://www.google.com/history/optout?hl=en
+URL belongs to another domain, skipping it.
+https://www.google.com/history/privacyadvisor/search/unauth?utm_source=googlemenu
+URL belongs to another domain, skipping it.
+https://support.google.com/websearch/?source=g&hl=en-IN
+URL belongs to another domain, skipping it.
+null
+URL is either not configured for anchor tag or it is empty
+https://www.google.com/search?q=cherry+blossom&source=lnt&tbs=qdr:h&sa=X&ved=2ahUKEwiQ_8C6rfPnAhVCSX0KHdTRCJQQpwV6BAgSEBk
+URL belongs to another domain, skipping it.
+https://www.google.com/search?q=cherry+blossom&source=lnt&tbs=qdr:d&sa=X&ved=2ahUKEwiQ_8C6rfPnAhVCSX0KHdTRCJQQpwV6BAgSEBo
+URL belongs to another domain, skipping it.
+https://www.google.com/search?q=cherry+blossom&source=lnt&tbs=qdr:w&sa=X&ved=2ahUKEwiQ_8C6rfPnAhVCSX0KHdTRCJQQpwV6BAgSEBs
+URL belongs to another domain, skipping it.
+https://www.google.com/search?q=cherry+blossom&source=lnt&tbs=qdr:m&sa=X&ved=2ahUKEwiQ_8C6rfPnAhVCSX0KHdTRCJQQpwV6BAgSEBw
+URL belongs to another domain, skipping it.
+https://www.google.com/search?q=cherry+blossom&source=lnt&tbs=qdr:y&sa=X&ved=2ahUKEwiQ_8C6rfPnAhVCSX0KHdTRCJQQpwV6BAgSEB0
+URL belongs to another domain, skipping it.
+https://www.google.com/search?q=cherry+blossom&source=lnt&tbs=li:1&sa=X&ved=2ahUKEwiQ_8C6rfPnAhVCSX0KHdTRCJQQpwV6BAgSECE
+URL belongs to another domain, skipping it.
+https://www.youtube.com/watch?v=2FQY8asdnxk
+URL belongs to another domain, skipping it.
+https://www.youtube.com/watch?v=15kvGCPGX2w
+URL belongs to another domain, skipping it.
+https://www.youtube.com/watch?v=Rpmu11X-37s
+URL belongs to another domain, skipping it.
+https://www.youtube.com/watch?v=qmOuYoYIwmA
+URL belongs to another domain, skipping it.
+https://www.youtube.com/watch?v=5we0ce09fVs
+URL belongs to another domain, skipping it.
+https://www.youtube.com/watch?v=yh_TBOIEJb8
+URL belongs to another domain, skipping it.
+https://www.youtube.com/watch?v=3eh16fdLiLQ
+URL belongs to another domain, skipping it.
+https://www.youtube.com/watch?v=uo-Kdk9Fpes
+URL belongs to another domain, skipping it.
+https://www.youtube.com/watch?v=wzYsH977agA
+URL belongs to another domain, skipping it.
+https://www.youtube.com/watch?v=AIrjRw8cBm8
+URL belongs to another domain, skipping it.
+https://festival.si.edu/blog/2014/significance-of-sakura-cherry-blossom-traditions-in-japan/
+URL belongs to another domain, skipping it.
+https://www.google.com/search?q=What+do+cherry+blossoms+symbolize%3F&sa=X&ved=2ahUKEwiQ_8C6rfPnAhVCSX0KHdTRCJQQzmd6BAgREA0
+URL belongs to another domain, skipping it.
+https://www.japan-guide.com/e/e2011_species.html
+URL belongs to another domain, skipping it.
+https://www.google.com/search?q=What+does+a+cherry+blossom+look+like%3F&sa=X&ved=2ahUKEwiQ_8C6rfPnAhVCSX0KHdTRCJQQzmd6BAgREBk
+URL belongs to another domain, skipping it.
+https://www.southernliving.com/garden/trees/cherry-blossom-tree
+URL belongs to another domain, skipping it.
+https://www.google.com/search?q=How+long+does+it+take+for+a+cherry+blossom+tree+to+grow%3F&sa=X&ved=2ahUKEwiQ_8C6rfPnAhVCSX0KHdTRCJQQzmd6BAgRECQ
+URL belongs to another domain, skipping it.
+https://en.wikipedia.org/wiki/Cherry_blossom
+URL belongs to another domain, skipping it.
+https://www.google.com/search?q=Do+cherry+blossom+trees+grow+cherries%3F&sa=X&ved=2ahUKEwiQ_8C6rfPnAhVCSX0KHdTRCJQQzmd6BAgREC8
+URL belongs to another domain, skipping it.
+https://www.google.com/search?source=hp&ei=vY9YXsqZAc_erQHZs7n4CA&q=cherry+blossom&oq=cherry+blossom&gs_l=psy-ab.3...372.422..440...0.0..0.0.0.......0....1..gws-wiz.J1HYSegVdw4&ved=0ahUKEwiK7Je6rfPnAhVPbysKHdlZDo8Q4dUDCAY&uact=5#
+URL belongs to another domain, skipping it.
+https://en.wikipedia.org/wiki/Cherry_blossom
+URL belongs to another domain, skipping it.
+https://www.google.com/search?source=hp&ei=vY9YXsqZAc_erQHZs7n4CA&q=cherry+blossom&oq=cherry+blossom&gs_l=psy-ab.3...372.422..440...0.0..0.0.0.......0....1..gws-wiz.J1HYSegVdw4&ved=0ahUKEwiK7Je6rfPnAhVPbysKHdlZDo8Q4dUDCAY&uact=5#
+URL belongs to another domain, skipping it.
+https://webcache.googleusercontent.com/search?q=cache:j4GtOtJ2Yg4J:https://en.wikipedia.org/wiki/Cherry_blossom+&cd=19&hl=en&ct=clnk&gl=in
+URL belongs to another domain, skipping it.
+https://www.google.com/search?q=related:https://en.wikipedia.org/wiki/Cherry_blossom+cherry+blossom&tbo=1&sa=X&ved=2ahUKEwiQ_8C6rfPnAhVCSX0KHdTRCJQQHzASegQIARAH
+URL belongs to another domain, skipping it.
+https://en.wikipedia.org/wiki/Category:Cherry_blossom
+URL belongs to another domain, skipping it.
+https://en.wikipedia.org/wiki/National_Cherry_Blossom_Festival
+URL belongs to another domain, skipping it.
+https://en.wikipedia.org/wiki/Prunus_serrulata
+URL belongs to another domain, skipping it.
+https://nationalcherryblossomfestival.org/
+URL belongs to another domain, skipping it.
+https://www.google.com/search?source=hp&ei=vY9YXsqZAc_erQHZs7n4CA&q=cherry+blossom&oq=cherry+blossom&gs_l=psy-ab.3...372.422..440...0.0..0.0.0.......0....1..gws-wiz.J1HYSegVdw4&ved=0ahUKEwiK7Je6rfPnAhVPbysKHdlZDo8Q4dUDCAY&uact=5#
+URL belongs to another domain, skipping it.
+https://webcache.googleusercontent.com/search?q=cache:rryzkNgtBYkJ:https://nationalcherryblossomfestival.org/+&cd=20&hl=en&ct=clnk&gl=in
+URL belongs to another domain, skipping it.
+https://www.countryliving.com/gardening/g3168/cherry-blossoms-facts/
+URL belongs to another domain, skipping it.
+https://www.google.com/search?source=hp&ei=vY9YXsqZAc_erQHZs7n4CA&q=cherry+blossom&oq=cherry+blossom&gs_l=psy-ab.3...372.422..440...0.0..0.0.0.......0....1..gws-wiz.J1HYSegVdw4&ved=0ahUKEwiK7Je6rfPnAhVPbysKHdlZDo8Q4dUDCAY&uact=5#
+URL belongs to another domain, skipping it.
+https://webcache.googleusercontent.com/search?q=cache:opSKKL_-uJIJ:https://www.countryliving.com/gardening/g3168/cherry-blossoms-facts/+&cd=21&hl=en&ct=clnk&gl=in
+URL belongs to another domain, skipping it.
+https://hypebeast.com/2020/2/new-era-sakura-59fifty-hat-cherry-blossom-collection
+URL belongs to another domain, skipping it.
+https://japantoday.com/category/features/new-products/starbucks-japan-reveals-2nd-sakura-frappuccino-for-cherry-blossom-season
+URL belongs to another domain, skipping it.
+https://soranews24.com/2020/02/28/sakura-isnt-cherry-starbucks-japan-release-the-sakura-cherry-frappuccino-and-we-try-it/
+URL belongs to another domain, skipping it.
+https://www.google.com/search?q=cherry+blossom&tbm=nws&source=univ&tbo=u&sa=X&ved=2ahUKEwiQ_8C6rfPnAhVCSX0KHdTRCJQQt8YBKAF6BAgDEA4
+URL belongs to another domain, skipping it.
+https://www.google.com/search?q=cherry+blossom&npsic=0&rflfq=1&rldoc=1&rlha=0&rllag=27971919,78383408,132635&tbm=lcl&sa=X&ved=2ahUKEwiQ_8C6rfPnAhVCSX0KHdTRCJQQtgN6BAgMEAQ
+URL belongs to another domain, skipping it.
+null
+URL is either not configured for anchor tag or it is empty
+https://cherryblossomstore.business.site/
+URL belongs to another domain, skipping it.
+null
+URL is either not configured for anchor tag or it is empty
+https://www.google.com/search?source=hp&ei=vY9YXsqZAc_erQHZs7n4CA&q=cherry+blossom&oq=cherry+blossom&gs_l=psy-ab.3...372.422..440...0.0..0.0.0.......0....1..gws-wiz.J1HYSegVdw4&ved=0ahUKEwiK7Je6rfPnAhVPbysKHdlZDo8Q4dUDCAY&uact=5#
+URL belongs to another domain, skipping it.
+null
+URL is either not configured for anchor tag or it is empty
+https://www.google.com/search?source=hp&ei=vY9YXsqZAc_erQHZs7n4CA&q=cherry+blossom&oq=cherry+blossom&gs_l=psy-ab.3...372.422..440...0.0..0.0.0.......0....1..gws-wiz.J1HYSegVdw4&ved=0ahUKEwiK7Je6rfPnAhVPbysKHdlZDo8Q4dUDCAY&uact=5#
+URL belongs to another domain, skipping it.
+https://www.google.com/search?q=cherry+blossom&npsic=0&rflfq=1&rldoc=1&rlha=0&rllag=27971919,78383408,132635&tbm=lcl&sa=X&ved=2ahUKEwiQ_8C6rfPnAhVCSX0KHdTRCJQQjGp6BAgMEC8
+URL belongs to another domain, skipping it.
+https://cherryblossomwatch.com/peak-bloom-forecast/
+URL belongs to another domain, skipping it.
+https://www.google.com/search?source=hp&ei=vY9YXsqZAc_erQHZs7n4CA&q=cherry+blossom&oq=cherry+blossom&gs_l=psy-ab.3...372.422..440...0.0..0.0.0.......0....1..gws-wiz.J1HYSegVdw4&ved=0ahUKEwiK7Je6rfPnAhVPbysKHdlZDo8Q4dUDCAY&uact=5#
+URL belongs to another domain, skipping it.
+https://webcache.googleusercontent.com/search?q=cache:ehA5BPvBRWoJ:https://cherryblossomwatch.com/peak-bloom-forecast/+&cd=28&hl=en&ct=clnk&gl=in
+URL belongs to another domain, skipping it.
+https://www.google.com/search?q=related:https://cherryblossomwatch.com/peak-bloom-forecast/+cherry+blossom&tbo=1&sa=X&ved=2ahUKEwiQ_8C6rfPnAhVCSX0KHdTRCJQQHzAbegQIAhAH
+URL belongs to another domain, skipping it.
+https://www.japan-guide.com/e/e2011.html
+URL belongs to another domain, skipping it.
+https://www.google.com/search?source=hp&ei=vY9YXsqZAc_erQHZs7n4CA&q=cherry+blossom&oq=cherry+blossom&gs_l=psy-ab.3...372.422..440...0.0..0.0.0.......0....1..gws-wiz.J1HYSegVdw4&ved=0ahUKEwiK7Je6rfPnAhVPbysKHdlZDo8Q4dUDCAY&uact=5#
+URL belongs to another domain, skipping it.
+https://webcache.googleusercontent.com/search?q=cache:2jPyBNKi71oJ:https://www.japan-guide.com/e/e2011.html+&cd=29&hl=en&ct=clnk&gl=in
+URL belongs to another domain, skipping it.
+https://cherryblossom.com/
+URL belongs to another domain, skipping it.
+https://www.google.com/search?source=hp&ei=vY9YXsqZAc_erQHZs7n4CA&q=cherry+blossom&oq=cherry+blossom&gs_l=psy-ab.3...372.422..440...0.0..0.0.0.......0....1..gws-wiz.J1HYSegVdw4&ved=0ahUKEwiK7Je6rfPnAhVPbysKHdlZDo8Q4dUDCAY&uact=5#
+URL belongs to another domain, skipping it.
+https://webcache.googleusercontent.com/search?q=cache:Lxlck_kMuLUJ:https://cherryblossom.com/+&cd=30&hl=en&ct=clnk&gl=in
+URL belongs to another domain, skipping it.
+https://www.google.com/search?q=related:https://cherryblossom.com/+cherry+blossom&tbo=1&sa=X&ved=2ahUKEwiQ_8C6rfPnAhVCSX0KHdTRCJQQHzAdegQICRAF
+URL belongs to another domain, skipping it.
+https://www.theflowerexpert.com/content/mostpopularflowers/morepopularflowers/cherry-blossom
+URL belongs to another domain, skipping it.
+https://www.google.com/search?source=hp&ei=vY9YXsqZAc_erQHZs7n4CA&q=cherry+blossom&oq=cherry+blossom&gs_l=psy-ab.3...372.422..440...0.0..0.0.0.......0....1..gws-wiz.J1HYSegVdw4&ved=0ahUKEwiK7Je6rfPnAhVPbysKHdlZDo8Q4dUDCAY&uact=5#
+URL belongs to another domain, skipping it.
+https://webcache.googleusercontent.com/search?q=cache:ORd6LaKVQ3oJ:https://www.theflowerexpert.com/content/mostpopularflowers/morepopularflowers/cherry-blossom+&cd=31&hl=en&ct=clnk&gl=in
+URL belongs to another domain, skipping it.
+https://www.seejapan.co.uk/where-to-go/outdoors/seasons/where-to-see-cherry-blossoms
+URL belongs to another domain, skipping it.
+https://www.google.com/search?source=hp&ei=vY9YXsqZAc_erQHZs7n4CA&q=cherry+blossom&oq=cherry+blossom&gs_l=psy-ab.3...372.422..440...0.0..0.0.0.......0....1..gws-wiz.J1HYSegVdw4&ved=0ahUKEwiK7Je6rfPnAhVPbysKHdlZDo8Q4dUDCAY&uact=5#
+URL belongs to another domain, skipping it.
+https://webcache.googleusercontent.com/search?q=cache:cSZok1rwwzoJ:https://www.seejapan.co.uk/where-to-go/outdoors/seasons/where-to-see-cherry-blossoms+&cd=32&hl=en&ct=clnk&gl=in
+URL belongs to another domain, skipping it.
+https://www.google.com/search?q=cherry+blossom+in+japan&sa=X&ved=2ahUKEwiQ_8C6rfPnAhVCSX0KHdTRCJQQ1QIoAHoECBAQAQ
+URL belongs to another domain, skipping it.
+https://www.google.com/search?q=cherry+blossom+drawing&sa=X&ved=2ahUKEwiQ_8C6rfPnAhVCSX0KHdTRCJQQ1QIoAXoECBAQAg
+URL belongs to another domain, skipping it.
+https://www.google.com/search?q=cherry+blossom+washington+dc+2020&sa=X&ved=2ahUKEwiQ_8C6rfPnAhVCSX0KHdTRCJQQ1QIoAnoECBAQAw
+URL belongs to another domain, skipping it.
+https://www.google.com/search?q=cherry+blossom+in+india&sa=X&ved=2ahUKEwiQ_8C6rfPnAhVCSX0KHdTRCJQQ1QIoA3oECBAQBA
+URL belongs to another domain, skipping it.
+https://www.google.com/search?q=cherry+blossom+tree+drawing&sa=X&ved=2ahUKEwiQ_8C6rfPnAhVCSX0KHdTRCJQQ1QIoBHoECBAQBQ
+URL belongs to another domain, skipping it.
+https://www.google.com/search?q=cherry+blossom+tattoo&sa=X&ved=2ahUKEwiQ_8C6rfPnAhVCSX0KHdTRCJQQ1QIoBXoECBAQBg
+URL belongs to another domain, skipping it.
+https://www.google.com/search?q=cherry+blossom+painting&sa=X&ved=2ahUKEwiQ_8C6rfPnAhVCSX0KHdTRCJQQ1QIoBnoECBAQBw
+URL belongs to another domain, skipping it.
+https://www.google.com/search?q=cherry+blossom+anime&sa=X&ved=2ahUKEwiQ_8C6rfPnAhVCSX0KHdTRCJQQ1QIoB3oECBAQCA
+URL belongs to another domain, skipping it.
+https://www.google.com/search?q=cherry+blossom&ei=vY9YXtCsKsKS9QPUo6OgCQ&start=10&sa=N&ved=2ahUKEwiQ_8C6rfPnAhVCSX0KHdTRCJQQ8tMDegQIEhAu
+URL belongs to another domain, skipping it.
+https://www.google.com/search?q=cherry+blossom&ei=vY9YXtCsKsKS9QPUo6OgCQ&start=20&sa=N&ved=2ahUKEwiQ_8C6rfPnAhVCSX0KHdTRCJQQ8tMDegQIEhAw
+URL belongs to another domain, skipping it.
+https://www.google.com/search?q=cherry+blossom&ei=vY9YXtCsKsKS9QPUo6OgCQ&start=30&sa=N&ved=2ahUKEwiQ_8C6rfPnAhVCSX0KHdTRCJQQ8tMDegQIEhAy
+URL belongs to another domain, skipping it.
+https://www.google.com/search?q=cherry+blossom&ei=vY9YXtCsKsKS9QPUo6OgCQ&start=40&sa=N&ved=2ahUKEwiQ_8C6rfPnAhVCSX0KHdTRCJQQ8tMDegQIEhA0
+URL belongs to another domain, skipping it.
+https://www.google.com/search?q=cherry+blossom&ei=vY9YXtCsKsKS9QPUo6OgCQ&start=50&sa=N&ved=2ahUKEwiQ_8C6rfPnAhVCSX0KHdTRCJQQ8tMDegQIEhA2
+URL belongs to another domain, skipping it.
+https://www.google.com/search?q=cherry+blossom&ei=vY9YXtCsKsKS9QPUo6OgCQ&start=60&sa=N&ved=2ahUKEwiQ_8C6rfPnAhVCSX0KHdTRCJQQ8tMDegQIEhA4
+URL belongs to another domain, skipping it.
+https://www.google.com/search?q=cherry+blossom&ei=vY9YXtCsKsKS9QPUo6OgCQ&start=70&sa=N&ved=2ahUKEwiQ_8C6rfPnAhVCSX0KHdTRCJQQ8tMDegQIEhA6
+URL belongs to another domain, skipping it.
+https://www.google.com/search?q=cherry+blossom&ei=vY9YXtCsKsKS9QPUo6OgCQ&start=80&sa=N&ved=2ahUKEwiQ_8C6rfPnAhVCSX0KHdTRCJQQ8tMDegQIEhA8
+URL belongs to another domain, skipping it.
+https://www.google.com/search?q=cherry+blossom&ei=vY9YXtCsKsKS9QPUo6OgCQ&start=90&sa=N&ved=2ahUKEwiQ_8C6rfPnAhVCSX0KHdTRCJQQ8tMDegQIEhA-
+URL belongs to another domain, skipping it.
+https://www.google.com/search?q=cherry+blossom&ei=vY9YXtCsKsKS9QPUo6OgCQ&start=10&sa=N&ved=2ahUKEwiQ_8C6rfPnAhVCSX0KHdTRCJQQ8NMDegQIEhBA
+URL belongs to another domain, skipping it.
+https://www.google.com/search?q=cherry+blossom&source=univ&tbm=shop&tbo=u&sa=X&ved=2ahUKEwiQ_8C6rfPnAhVCSX0KHdTRCJQQsxh6BAgSEEg
+URL belongs to another domain, skipping it.
+https://www.google.com/search?q=cherry+blossom&source=univ&tbm=shop&tbo=u&sa=X&ved=2ahUKEwiQ_8C6rfPnAhVCSX0KHdTRCJQQsxh6BAgSEEk
+URL belongs to another domain, skipping it.
+https://www.google.com/search?q=cherry+blossom&source=univ&tbm=shop&tbo=u&sa=X&ved=2ahUKEwiQ_8C6rfPnAhVCSX0KHdTRCJQQsxh6BAgSEEo
+URL belongs to another domain, skipping it.
+https://www.google.com/aclk?sa=L&ai=DChcSEwjIuMm6rfPnAhWGDisKHRrcB70YABACGgJzZg&sig=AOD64_3LT821ZRIep5aFMR-SPjiuCp_1UQ&ctype=5&q=&ved=2ahUKEwiQ_8C6rfPnAhVCSX0KHdTRCJQQ5bgDegQIEhBM&adurl=
+URL belongs to another domain, skipping it.
+https://www.amazon.in/Cherry-Blossom-Wax-Polish-Black/dp/B07QWTKPQN?source=ps-sl-shoppingads-lpcontext&psc=1
+URL belongs to another domain, skipping it.
+https://www.google.com/aclk?sa=L&ai=DChcSEwjIuMm6rfPnAhWGDisKHRrcB70YABACGgJzZg&sig=AOD64_3LT821ZRIep5aFMR-SPjiuCp_1UQ&ctype=5&q=&ved=2ahUKEwiQ_8C6rfPnAhVCSX0KHdTRCJQQ8w56BAgSEE0&adurl=
+URL belongs to another domain, skipping it.
+https://www.amazon.in/Cherry-Blossom-Wax-Polish-Black/dp/B07QWTKPQN?source=ps-sl-shoppingads-lpcontext&psc=1
+URL belongs to another domain, skipping it.
+https://www.google.com/aclk?sa=L&ai=DChcSEwjIuMm6rfPnAhWGDisKHRrcB70YABACGgJzZg&sig=AOD64_3LT821ZRIep5aFMR-SPjiuCp_1UQ&ctype=5&q=&ved=2ahUKEwiQ_8C6rfPnAhVCSX0KHdTRCJQQ9A56BAgSEE4&adurl=
+URL belongs to another domain, skipping it.
+https://www.amazon.in/Cherry-Blossom-Wax-Polish-Black/dp/B07QWTKPQN?source=ps-sl-shoppingads-lpcontext&psc=1
+URL belongs to another domain, skipping it.
+https://www.google.com/aclk?sa=L&ai=DChcSEwjIuMm6rfPnAhWGDisKHRrcB70YABADGgJzZg&sig=AOD64_39k_HTF8oL1dSJ37repoLeVVgwgg&ctype=5&q=&ved=2ahUKEwiQ_8C6rfPnAhVCSX0KHdTRCJQQ5bgDegQIEhBQ&adurl=
+URL belongs to another domain, skipping it.
+https://www.amazon.in/Cherry-Blossom-Liquid-Polish-Black/dp/B07PPXMFZF?source=ps-sl-shoppingads-lpcontext&psc=1
+URL belongs to another domain, skipping it.
+https://www.google.com/aclk?sa=L&ai=DChcSEwjIuMm6rfPnAhWGDisKHRrcB70YABADGgJzZg&sig=AOD64_39k_HTF8oL1dSJ37repoLeVVgwgg&ctype=5&q=&ved=2ahUKEwiQ_8C6rfPnAhVCSX0KHdTRCJQQ8w56BAgSEFE&adurl=
+URL belongs to another domain, skipping it.
+https://www.amazon.in/Cherry-Blossom-Liquid-Polish-Black/dp/B07PPXMFZF?source=ps-sl-shoppingads-lpcontext&psc=1
+URL belongs to another domain, skipping it.
+https://www.google.com/aclk?sa=L&ai=DChcSEwjIuMm6rfPnAhWGDisKHRrcB70YABADGgJzZg&sig=AOD64_39k_HTF8oL1dSJ37repoLeVVgwgg&ctype=5&q=&ved=2ahUKEwiQ_8C6rfPnAhVCSX0KHdTRCJQQ9A56BAgSEFI&adurl=
+URL belongs to another domain, skipping it.
+https://www.amazon.in/Cherry-Blossom-Liquid-Polish-Black/dp/B07PPXMFZF?source=ps-sl-shoppingads-lpcontext&psc=1
+URL belongs to another domain, skipping it.
+https://www.google.com/search?q=cherry+blossom&source=univ&tbm=shop&tbo=u&sa=X&ved=2ahUKEwiQ_8C6rfPnAhVCSX0KHdTRCJQQ1TV6BAgSEFM
+URL belongs to another domain, skipping it.
+https://www.google.com/search?q=cherry+blossom&tbm=isch&source=iu&ictx=1&fir=mH3k37qdn4lYtM%253A%252C9gXdNXDxYoQ4RM%252C%252Fm%252F01wh_8&vet=1&usg=AI4_-kSjj1oAnskR7MNHjVPXvPZwZHbVEQ&sa=X&ved=2ahUKEwiQ_8C6rfPnAhVCSX0KHdTRCJQQ_B0wIHoECAsQAw#imgrc=mH3k37qdn4lYtM:
+URL belongs to another domain, skipping it.
+https://www.google.com/search?q=cherry+blossom&tbm=isch&source=iu&ictx=1&fir=UF7Q-xCNFKiFgM%253A%252CopSKKL_-uJIu0M%252C_&vet=1&usg=AI4_-kRuTfKrBaiPVDo-wdwYAovW61VW_g&sa=X&ved=2ahUKEwiQ_8C6rfPnAhVCSX0KHdTRCJQQ_h0wIXoECAsQBQ#imgrc=UF7Q-xCNFKiFgM:
+URL belongs to another domain, skipping it.
+https://www.google.com/search?q=cherry+blossom&tbm=isch&source=iu&ictx=1&fir=jJzj4GBRksWc6M%253A%252CehA5BPvBRWr8vM%252C_&vet=1&usg=AI4_-kSzstR5aArMHJ85S-F62VeazmscFg&sa=X&ved=2ahUKEwiQ_8C6rfPnAhVCSX0KHdTRCJQQ_h0wInoECAsQBw#imgrc=jJzj4GBRksWc6M:
+URL belongs to another domain, skipping it.
+https://www.google.com/search?q=cherry+blossom&tbm=isch&source=iu&ictx=1&fir=6mLiuAdMk6qdPM%253A%252CYIAD9enSG3GQ1M%252C_&vet=1&usg=AI4_-kTi77Tb33ue7u0bt1lX761EljY8Yw&sa=X&ved=2ahUKEwiQ_8C6rfPnAhVCSX0KHdTRCJQQ_h0wI3oECAsQCQ#imgrc=6mLiuAdMk6qdPM:
+URL belongs to another domain, skipping it.
+https://www.google.com/search?q=cherry+blossom&tbm=isch&source=iu&ictx=1&fir=i0XCGXIWvC6GZM%253A%252ChPnhtF6p0zbp0M%252C_&vet=1&usg=AI4_-kR5y25jBtsvUbhzx5Hq3cBzUKbqNA&sa=X&ved=2ahUKEwiQ_8C6rfPnAhVCSX0KHdTRCJQQ_h0wJHoECAsQCw#imgrc=i0XCGXIWvC6GZM:
+URL belongs to another domain, skipping it.
+https://www.google.com/search?q=cherry+blossom&tbm=isch&source=iu&ictx=1&fir=JGHz7e6UgkG6WM%253A%252CsmzHgl-Q-oTR-M%252C_&vet=1&usg=AI4_-kSjA7N164jrvjumoamTn_vMABZaow&sa=X&ved=2ahUKEwiQ_8C6rfPnAhVCSX0KHdTRCJQQ_h0wJXoECAsQDQ#imgrc=JGHz7e6UgkG6WM:
+URL belongs to another domain, skipping it.
+https://www.google.com/search?q=cherry+blossom&tbm=isch&source=univ&sa=X&ved=2ahUKEwiQ_8C6rfPnAhVCSX0KHdTRCJQQiR56BAgLEA4
+URL belongs to another domain, skipping it.
+null
+URL is either not configured for anchor tag or it is empty
+null
+URL is either not configured for anchor tag or it is empty
+null
+URL is either not configured for anchor tag or it is empty
+null
+URL is either not configured for anchor tag or it is empty
+null
+URL is either not configured for anchor tag or it is empty
+null
+URL is either not configured for anchor tag or it is empty
+null
+URL is either not configured for anchor tag or it is empty
+https://en.wikipedia.org/wiki/Cherry_blossom
+URL belongs to another domain, skipping it.
+https://www.google.com/search?q=Cherry+blossom&stick=H4sIAAAAAAAAAONgFuLUz9U3MCzPiLdQQjC1hLOTrfST83Nz8_OsijNTUssTK4sXsfI5Z6QWFVUqJOXkFxfn5-5gZQQANvWj_EEAAAA&sa=X&ved=2ahUKEwiQ_8C6rfPnAhVCSX0KHdTRCJQQMSgAMCl6BAgKEAE
+URL belongs to another domain, skipping it.
+https://www.google.com/search?q=Cherry+blossom&stick=H4sIAAAAAAAAAONgFuLUz9U3MCzPiLdQQjC1hLOTrfST83Nz8_OsijNTUssTK4sXsfI5Z6QWFVUqJOXkFxfn5-5gZQQANvWj_EEAAAA&sa=X&ved=2ahUKEwiQ_8C6rfPnAhVCSX0KHdTRCJQQzTooATApegQIChAC
+URL belongs to another domain, skipping it.
+https://www.google.com/search?q=Peach&stick=H4sIAAAAAAAAAONgFuLUz9U3MCzPiLdQ4gAxU7LMCrT4nPNzc_PzgjNTUssTK4sXsbIGpCYmZ-xgZQQABJrBHjIAAAA&sa=X&ved=2ahUKEwiQ_8C6rfPnAhVCSX0KHdTRCJQQxA0wKXoECAoQBQ
+URL belongs to another domain, skipping it.
+https://www.google.com/search?q=Cherry&stick=H4sIAAAAAAAAAONgFuLUz9U3MCzPiLdQ4gAx0yyKy7X4nPNzc_PzgjNTUssTK4sXsbI5Z6QWFVXuYGUEAG2or9UzAAAA&sa=X&ved=2ahUKEwiQ_8C6rfPnAhVCSX0KHdTRCJQQxA0wKXoECAoQBw
+URL belongs to another domain, skipping it.
+https://www.google.com/search?q=Strawberry&stick=H4sIAAAAAAAAAONgFuLUz9U3MCzPiLdQAjPN05JyzbX4nPNzc_PzgjNTUssTK4sXsXIFlxQllielFhVV7mBlBAAVP_E1OAAAAA&sa=X&ved=2ahUKEwiQ_8C6rfPnAhVCSX0KHdTRCJQQxA0wKXoECAoQCQ
+URL belongs to another domain, skipping it.
+https://www.google.com/search?q=Apple&stick=H4sIAAAAAAAAAONgFuLUz9U3MCzPiLdQgjBNsgxztfic83Nz8_OCM1NSyxMrixexsjoWFOSk7mBlBADoVgenMwAAAA&sa=X&ved=2ahUKEwiQ_8C6rfPnAhVCSX0KHdTRCJQQxA0wKXoECAoQCw
+URL belongs to another domain, skipping it.
+https://www.google.com/search?q=Lemon&stick=H4sIAAAAAAAAAONgFuLUz9U3MCzPiLdQ4gAxLbPjk7T4nPNzc_PzgjNTUssTK4sXsbL6pAL5O1gZAfGCc0gyAAAA&sa=X&ved=2ahUKEwiQ_8C6rfPnAhVCSX0KHdTRCJQQxA0wKXoECAoQDQ
+URL belongs to another domain, skipping it.
+https://www.google.com/search?source=hp&ei=vY9YXsqZAc_erQHZs7n4CA&q=cherry+blossom&oq=cherry+blossom&gs_l=psy-ab.3...372.422..440...0.0..0.0.0.......0....1..gws-wiz.J1HYSegVdw4&ved=0ahUKEwiK7Je6rfPnAhVPbysKHdlZDo8Q4dUDCAY&uact=5#
+URL belongs to another domain, skipping it.
+null
+URL is either not configured for anchor tag or it is empty
+https://www.google.com/search?source=hp&ei=vY9YXsqZAc_erQHZs7n4CA&q=cherry+blossom&oq=cherry+blossom&gs_l=psy-ab.3...372.422..440...0.0..0.0.0.......0....1..gws-wiz.J1HYSegVdw4&ved=0ahUKEwiK7Je6rfPnAhVPbysKHdlZDo8Q4dUDCAY&uact=5#
+URL belongs to another domain, skipping it.
+https://support.google.com/websearch?p=ws_settings_location&hl=en-IN
+URL belongs to another domain, skipping it.
+https://support.google.com/websearch/?p=ws_results_help&hl=en-IN&fg=1
+URL belongs to another domain, skipping it.
+https://www.google.com/search?source=hp&ei=vY9YXsqZAc_erQHZs7n4CA&q=cherry+blossom&oq=cherry+blossom&gs_l=psy-ab.3...372.422..440...0.0..0.0.0.......0....1..gws-wiz.J1HYSegVdw4&ved=0ahUKEwiK7Je6rfPnAhVPbysKHdlZDo8Q4dUDCAY&uact=5#
+URL belongs to another domain, skipping it.
+https://policies.google.com/privacy?fg=1
+URL belongs to another domain, skipping it.
+https://policies.google.com/terms?fg=1
+URL belongs to another domain, skipping it.
